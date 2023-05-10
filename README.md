@@ -1,3 +1,5 @@
+# Ejemplo de uso pub/sub y comunicacion por mensajes
+
 Para correr este proyecto es necesario tener RabbitMQ server instalado en la máquina
 
 https://www.rabbitmq.com/
